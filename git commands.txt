@@ -1,0 +1,20 @@
+ git clone https://github.com/mohamedsikkantharasaf/FirstGitHubRepo.git
+
+ git status
+
+ git add text2.txt
+ 
+ git restore --staged text2.txt
+
+ git commit -m "text2.txt filr added"
+
+ git push origin main
+
+ git add .
+
+ git branch
+
+ git branch -M main 
+
+ git push origin main
+
